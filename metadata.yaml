@@ -1,0 +1,36 @@
+_repo: The-Wild-Irish-Girl-A-National-Tale_54683
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morgan, Lady (Sydney)
+    aliases:
+    - Morgan, Lady Sydney
+    - Morgan, Sydney Owenson, Lady
+    - Morgan, Sydney, Lady
+    - Owenson, Sidney
+    - Owenson, Sydney
+    - Morgan, Lady Sidney
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '44953'
+    url: http://www.gutenberg.org/2009/agents/44953
+    wikipedia: https://en.wikipedia.org/wiki/Sydney,_Lady_Morgan
+description: ''
+gutenberg_issued: '2017-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Fiction'
+- !lcsh 'Princesses -- Fiction'
+- !lcc 'PR'
+- !lcsh 'British -- Ireland -- Fiction'
+- !lcsh 'Celts -- Fiction'
+- !lcsh 'Love stories'
+- GITenberg
+title: 'The Wild Irish Girl: A National Tale'
+url: http://www.gutenberg.org/ebooks/54683
