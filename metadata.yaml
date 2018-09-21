@@ -1,5 +1,8 @@
 _repo: The-Wild-Irish-Girl-A-National-Tale_54683
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54683-h/images/cover.jpg
 creator:
   author:
     agent_name: Morgan, Lady (Sydney)
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44953
     wikipedia: https://en.wikipedia.org/wiki/Sydney,_Lady_Morgan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54683#The-Wild-Irish-Girl-A-National-Tale
 gutenberg_issued: '2017-05-08'
 gutenberg_type: Text
 identifiers:
